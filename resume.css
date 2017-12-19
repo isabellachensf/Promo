@@ -1,0 +1,35 @@
+body {
+    background-color:gold;
+    color: white;
+    text-align: center;
+    
+}
+    
+.container {
+    width: 600px; 
+    height: 100%;
+     margin:auto;
+    padding: 20px; 
+}
+
+
+.isabella { 
+    font-family: 'Mrs Sheppards', cursive;
+    font-size: 87px;
+    }
+    
+.discription {
+    font-family: 'Poly', serif;
+}
+    
+    ul {
+    list-style-type:none;
+        text-align: center;
+        padding: 0px; 
+}
+
+h2{
+    font-family: 'Mrs Sheppards', cursive;
+    font-size: 27px;
+}
+        
